@@ -74,10 +74,9 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-FFD93D?style=for-the-badge&logo=github&logoColor=black)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-3DA9FC?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-FF5C8A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Telegram](https://img.shields.io/badge/Telegram-FFD93D?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/YOUR_TELEGRAM)
+[![GitHub](https://img.shields.io/badge/GitHub-FFD93D?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Ketima34)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3DA9FC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%E1%9E%83%E1%9E%B8-%E1%9E%88%E1%9E%BB%E1%9E%93%E1%9E%A0%E1%9F%92%E1%9E%82%E1%9F%81%E1%9E%80-8b8a7826a/)
+[![Email](https://img.shields.io/badge/Email-FF5C8A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:KhyChhoungech00gmail.com)
 
 <br/>
 
