@@ -69,30 +69,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF5C8A&text_color=FFD93D&icon_color=3DA9FC&ring_color=FF5C8A" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF5C8A&text_color=FFD93D" />
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0d1117&ring=FF5C8A&fire=FFD93D&currStreakLabel=3DA9FC&currStreakNum=FFD93D&sideNums=FFD93D&sideLabels=FF5C8A&dates=3DA9FC" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| 🤟 **Sign Language Recognition** | Real-time AI sign language recognition | Python, Deep Learning, Computer Vision |
-| 📱 **Your Flutter App** | Short description of the project | Flutter, Dart |
-| 🌐 **Your Web App** | Short description of the project | React.js, Node.js |
-
-> ✏️ Replace the rows above with your real projects and link them.
-
----
 
 ## 📫 Let's Connect
 
